@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 
 #update
 sudo yum -y update
